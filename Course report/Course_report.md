@@ -12,7 +12,7 @@
 
 # Course Report
 
-## Name: Anil Jalwadi
+## Name: Anil Jalawadi
 
 ## Qualifications: B.Tech
 
